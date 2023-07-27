@@ -1,13 +1,12 @@
 
 ## About 
-Sistem Arsip Surat Client LISA
 
 
 #### Installation
 copy and jalankan kode di bawah ini di terminal komputer anda
 
 ```bash
-git clone https://github.com/jocodes-dev/SA-Lisa.git
+git clone https://github.com/MRizki28/pena-learn.git
 ```
 
 install commposser di komputer anda
